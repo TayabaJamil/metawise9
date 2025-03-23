@@ -1,0 +1,25 @@
+.main{
+   width: 400px;
+   height: 250px;
+}
+.red1{
+    width: 100px;
+    height: 250px;
+    background-color: #fe0000;
+    position: absolute;
+
+}
+.red2{
+    width: 100px;
+    height: 250px;
+    background-color: #fe0000;
+    position: absolute;
+    left: 300px;
+}
+img{
+    position: absolute;
+    left: 130px;
+    top: 55px;
+
+}
+    
